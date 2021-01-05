@@ -13,6 +13,8 @@ public class Testonedemo {
 		
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
+		driver.manage().window().maximize();
+		System.out.println("windows maximize");
 		driver.get("https://www.rameshsoft.com");
 		System.out.println("executed");
 		
