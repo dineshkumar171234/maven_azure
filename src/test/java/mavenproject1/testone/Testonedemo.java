@@ -17,6 +17,8 @@ public class Testonedemo {
 		System.out.println("windows maximize");
 		driver.get("https://www.rameshsoft.com");
 		System.out.println("executed");
+		driver.close();
+		System.out.println("person1 modified");
 		
 		
 		
