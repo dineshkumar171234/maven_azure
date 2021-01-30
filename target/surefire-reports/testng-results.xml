@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-26T20:40:49 IST" name="Suite" finished-at="2021-01-26T20:41:00 IST" duration-ms="11375">
+  <suite started-at="2021-01-30T10:09:22 IST" name="Suite" finished-at="2021-01-30T10:09:37 IST" duration-ms="15749">
     <groups>
     </groups>
-    <test started-at="2021-01-26T20:40:49 IST" name="Testone" finished-at="2021-01-26T20:41:00 IST" duration-ms="11375">
+    <test started-at="2021-01-30T10:09:22 IST" name="Testone" finished-at="2021-01-30T10:09:37 IST" duration-ms="15749">
       <class name="mavenproject1.testone.Testonedemo">
-        <test-method signature="demo()[pri:0, instance:mavenproject1.testone.Testonedemo@399f45b1]" started-at="2021-01-26T20:40:49 IST" name="demo" finished-at="2021-01-26T20:41:00 IST" duration-ms="11335" status="PASS">
+        <test-method signature="demo()[pri:0, instance:mavenproject1.testone.Testonedemo@564fabc8]" started-at="2021-01-30T10:09:22 IST" name="demo" finished-at="2021-01-30T10:09:37 IST" duration-ms="15723" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- demo -->
